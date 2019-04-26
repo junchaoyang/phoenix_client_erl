@@ -1,0 +1,9 @@
+# Name of the node
+-name phoenix_client_erl@dev-im.gzemt.cn
+
+## Cookie for distributed erlang
+-setcookie 9<p?&mM$oh]/QZ5DK1gvCOCj,H9O%7Fo?WZs0BIg9T%iY:bC;I9JV6|?%9pb{^<; 
+
+
++K true
++A30
